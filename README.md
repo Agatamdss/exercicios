@@ -1,0 +1,2 @@
+# exercicios
+Qualidade de software
